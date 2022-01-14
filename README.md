@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod6-duplicate-detection
+# AzureServiceBusDemosPsMod06DuplicateDetection
 
 ## Demos of Azure Service Bus: Duplicate Detection from Pluralsight Class Azure Service Bus in Dept Module 6
 
